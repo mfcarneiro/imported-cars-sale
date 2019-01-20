@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Imported Cars for sale</string>
+    <string name="car_description">Car</string>
+    <string name="brand_car_description">Brand car</string>
+</resources>
